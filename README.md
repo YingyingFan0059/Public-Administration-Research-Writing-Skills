@@ -1,4 +1,4 @@
-# Public Management Research Writing Skillset
+# Public Administration Research Writing Skillset
 
 > Word-first writing support for public administration, emergency management, and computational social science.
 
