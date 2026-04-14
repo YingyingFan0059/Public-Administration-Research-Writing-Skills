@@ -1,0 +1,4 @@
+interface:
+  display_name: "Public Management Writing"
+  short_description: "Section-aware Word-first journal writing aid"
+  default_prompt: "Use $public-management-word-writing to revise the Results section of this draft for a public management journal while preserving methods, variables, and claim strength."
