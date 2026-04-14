@@ -1,4 +1,4 @@
-# Public Administration Research Writing Skills
+# Public Management Research Writing Skills
 # 公共管理研究写作技能包
 
 Word-first academic writing skills for public administration, emergency management, and computational social science.
